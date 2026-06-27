@@ -24,4 +24,3 @@ if __name__ == "__main__":
     )
     for task in done:
         print(f"\t {task.get('title')}")
-        
