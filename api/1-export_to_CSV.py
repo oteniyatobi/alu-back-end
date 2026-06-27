@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Export employee TODO list to CSV."""
 
 import csv
 import requests

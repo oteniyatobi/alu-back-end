@@ -1,5 +1,6 @@
 import json
 import requests
+"""Export all employees' TODO lists to JSON."""
 
 users = requests.get(
     "https://jsonplaceholder.typicode.com/users"
