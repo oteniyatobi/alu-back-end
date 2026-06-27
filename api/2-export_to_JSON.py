@@ -31,3 +31,4 @@ if __name__ == "__main__":
 
     with open(f"{employee_id}.json", "w") as f:
         json.dump(data, f)
+        
